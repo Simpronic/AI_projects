@@ -1,0 +1,5 @@
+This project consist of training a SOM called minisom clonable using the following link: 
+
+https://github.com/JustGlowing/minisom
+
+After training the SOM and find the outliers, an ANN has been trained to classify the potencial fraudolent customers 
